@@ -1,0 +1,6 @@
+#title: Find the biggest number in the list of numbers
+
+Pass an arry to the Max method and return the maximum number of numbers in the list of numbers
+
+##Running:
+Open terminal and type dotnet run and get the number
